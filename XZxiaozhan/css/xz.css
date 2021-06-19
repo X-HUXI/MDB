@@ -139,8 +139,8 @@ div.card {
   background-color: #d286a6;
 }
 div.card-body {  
- 
-  background: url(../img/da2.jpeg) no-repeat ;
+  background-image: url(../img/da2.jpeg) no-repeat center center fixed ;
+  opacity: 1;
   background-size: cover;
   border: 0.5em solid rgb(197, 120, 191);
   border-style: solid double dashed;
