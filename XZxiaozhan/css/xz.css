@@ -13,7 +13,7 @@ nav{
 }
 
 #all{
-  background: url(../img/7.jpg)no-repeat ;
+  background: url(../img/7.jpg)no-repeat center center fixed ;
   padding:0;
   background-size: cover;
   opacity: 0.75;
@@ -137,7 +137,7 @@ div.card {
   
   min-width: 100%;
   min-height: auto;
- background: url(../img/da2.jpeg) no-repeat  center center fixed;
+ background: url(../img/da2.jpeg) no-repeat;
   background-size: cover;
 }
 div.card-body {  
