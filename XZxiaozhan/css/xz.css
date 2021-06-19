@@ -140,7 +140,7 @@ div.card {
 }
 div.card-body {  
  
-  background: url(/img/da2.jpeg) no-repeat ;
+  background: url(../img/da2.jpeg) no-repeat ;
   background-size: cover;
   border: 0.5em solid rgb(197, 120, 191);
   border-style: solid double dashed;
