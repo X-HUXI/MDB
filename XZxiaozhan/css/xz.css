@@ -13,7 +13,7 @@ nav{
 }
 
 #all{
-  background: url(../img/7.jpg)no-repeat center center fixed;
+  background: url(../img/7.jpg)no-repeat ;
   padding:0;
   background-size: cover;
   opacity: 0.75;
