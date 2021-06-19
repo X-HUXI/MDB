@@ -137,6 +137,7 @@ div.card {
   min-width: 100%;
   min-height: auto;
  background: url(../img/da2.jpeg) no-repeat ;
+  background-position: center top;
  background-attachment: scroll; 
   background-size: cover;
 }
