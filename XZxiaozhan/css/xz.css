@@ -134,9 +134,11 @@ div.card {
   opacity: 0.75;
   padding: 0px;
   border: 5vw solid #ffc6d0;
+  
   min-width: 100%;
   min-height: auto;
-  background-color: #d286a6;
+ background: url(../img/da2.jpeg) no-repeat  center center fixed;
+  background-size: cover;
 }
 div.card-body {  
   background-image: url(../img/da2.jpeg) no-repeat center center fixed ;
